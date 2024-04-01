@@ -1,0 +1,265 @@
+.logo{
+    position:absolute;
+    top:30px;
+    left:40px;
+}
+ul li{
+    display: inline;
+    padding: 10px;
+    font-size: 15px;
+    margin-right: 20px;
+
+}
+ul{
+    position:absolute;
+    top:5%;
+    right: 50px;
+}    
+ ul li a{
+    list-style: none;
+    text-decoration: none;
+    color: black;
+ }
+ .choose{
+    position: relative;
+    top: 180px;
+    left: 1300px;
+    width: 140px;
+    height: 30px;
+ }
+ .fp{
+    position: relative;
+    top: 130px;
+    left: 155px;
+}
+.orange{
+    width: 20%;
+    /* background-color: orangered; */
+    height: 7px;
+    position: relative;
+    top: 180px;
+    left: 41%;
+
+
+}
+.ci{
+    width: 80%;
+    /* border: 2px solid red; */
+    position: relative;
+    left: 10%;
+    top: 150px;
+    display: flex;
+    justify-content: space-between;
+}
+.star{
+    color: orangered;
+}
+.c1 .c2 .c3 .c4{
+    /* border: 2px solid red; */
+    width: 25%;
+}
+.c1{
+    transition: transform 0.3s ease;
+}
+.c1:hover{
+    transform: translate(5px,5px);
+}
+.c2{
+    transition: transform 0.3s ease;
+}
+.c2:hover{
+    transform: translate(5px,5px);
+}
+.c3{
+    transition: transform 0.3s ease;
+}
+.c3:hover{
+    transform: translate(5px,5px);
+}
+.c4{
+    transition: transform 0.3s ease;
+}
+.c4:hover{
+    transform: translate(5px,5px);
+}
+
+.orange2{
+    width: 20%;
+    background-color: orangered;
+    height: 7px;
+    position: relative;
+    top: 1280px;
+    left: 39%;
+    }
+
+    .ch{
+        width: 80%;
+        /* border: 2px solid red; */
+        position: relative;
+        left: 10%;
+        top: 250px;
+        display: flex;
+        justify-content: space-between;
+    }
+    .star{
+        color: orangered;
+    }
+    .c5 .c6 .c7 .c8{
+        /* border: 2px solid red; */
+        width: 25%;
+    }
+
+.c5{
+    transition: transform 0.3s ease;
+}
+.c5:hover{
+    transform: translate(5px,5px);
+}
+.c6{
+    transition: transform 0.3s ease;
+}
+.c6:hover{
+    transform: translate(5px,5px);
+}
+.c7{
+    transition: transform 0.3s ease;
+}
+.c7:hover{
+    transform: translate(5px,5px);
+}
+.c8{
+    transition: transform 0.3s ease;
+}
+.c8:hover{
+    transform: translate(5px,5px);
+}
+    .cm{
+        width: 80%;
+        /* border: 2px solid red; */
+        position: relative;
+        left: 10%;
+        top: 350px;
+        display: flex;
+        justify-content: space-between;
+    }
+    .star{
+        color: orangered;
+    }
+    .c9 .c10 .c11 .c12{
+        /* border: 2px solid red; */
+        width: 25%;
+    }
+    .c9{
+        transition: transform 0.3s ease;
+    }
+    .c9:hover{
+        transform: translate(5px,5px);
+    }
+    .c10{
+        transition: transform 0.3s ease;
+    }
+    .c10:hover{
+        transform: translate(5px,5px);
+    }
+    .c11{
+        transition: transform 0.3s ease;
+    }
+    .c11:hover{
+        transform: translate(5px,5px);
+    }
+    .c12{
+        transition: transform 0.3s ease;
+    }
+    .c12:hover{
+        transform: translate(5px,5px);
+    }
+    .next{
+        display: inline;
+        height: 55px;
+        width: 555%;
+        background-color: #f0f0f0;
+        text-align: center;
+        line-height: 30px;
+        font-size: 30px;
+        position:relative;
+        top: 400px;
+        left: 10%;
+        cursor: pointer;
+        transition: background0.5s;
+    }
+ button:hover{
+        background-color: orangered;
+    }
+
+    .sukam{
+        background-color: black;
+        width: 100%;
+        height: 290px;
+        position: relative;
+        top: 450px;
+        /* left: 10%; */
+    }
+    *{
+        margin: 0px;
+    }
+    .infooter{
+        /* border: 2px solid red; */
+        width: 80%;
+        height: 180px;
+        position: relative;
+        top: 10%;
+        left: 10%;
+        display: flex;
+    }
+    .download{
+        width: 30%;
+        /* border: 2px solid red; */
+        height: 180px;
+        color: white;
+        text-align: center;
+      
+    
+    }
+    .store{
+        width: 30%;
+        /* border: 2px solid red; */
+        height: 180px;
+        color: white;
+        text-align: center;
+    }
+    .linkss{
+        width: 30%;
+        /* border: 2px solid red; */
+        /* height: 180px; */
+        color: white;
+        text-align: center;
+    }
+    .linkss2{
+        width: 30%;
+        /* border: 2px solid red; */
+        /* height: 180px; */
+        color: white;
+        text-align: center;
+    }
+    .linex{
+        width: 80%;
+        height: 2px;
+        background-color:white;
+        position: relative;
+        left: 10%;
+    
+    }
+    .copyright{
+        text-align: center;
+        position: absolute;
+        top: 1000px;
+        color:wheat;
+    
+    }
+    .tst{
+        color:white;
+        text-align: center;
+        position: relative;
+        left: 37%;
+        top: 10px;
+    }
